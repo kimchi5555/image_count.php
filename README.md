@@ -1,1 +1,1 @@
-# image_count.php
+# image_count
